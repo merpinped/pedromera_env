@@ -1,4 +1,4 @@
-# pedromera_env
+# Pasos para clonar un repositorio y crear un nuevo entorno
 <ul>
 	<li><strong>1. Paso:</string> Clonar repositorio con el comando <code>git clone 'url reposiotorio'</code></li>
 	<li><strong>2. Paso:</strong> Crear un nuevo entorno con el comando <code>conda create --file 'fichero yml'</code></li>
